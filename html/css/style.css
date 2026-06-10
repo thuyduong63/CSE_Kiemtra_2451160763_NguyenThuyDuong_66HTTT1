@@ -1,0 +1,70 @@
+body{
+    background:#f5f7fb;
+}
+
+.header-box{
+
+    background:linear-gradient(
+        90deg,
+        #295ee8,
+        #4a84ff
+    );
+
+    color:white;
+
+    padding:30px;
+
+    border-radius:20px;
+}
+
+.header-box h1{
+    font-weight:bold;
+}
+
+.card{
+    border:none;
+    border-radius:20px;
+}
+
+.card-body{
+    padding:25px;
+}
+
+.table th{
+    background:#f1f4f9;
+    font-size:14px;
+}
+
+.table td{
+    vertical-align:middle;
+}
+
+.badge-stock{
+
+    background:#dff6df;
+
+    color:#2e8b57;
+
+    padding:8px 15px;
+
+    border-radius:20px;
+
+    font-size:13px;
+
+    font-weight:bold;
+}
+
+.badge-out{
+
+    background:#ffe1e1;
+
+    color:#d9534f;
+
+    padding:8px 15px;
+
+    border-radius:20px;
+
+    font-size:13px;
+
+    font-weight:bold;
+}
